@@ -1,0 +1,19 @@
+# MPLAB X IDE Workspace files
+nbproject/Makefile-*
+nbproject/Package-*.bash
+nbproject/private/
+
+# Compilations and builds
+build/
+dist/
+debug/
+.generated_files/
+
+# Proteus / OrCAD backups (si fas els esquemes allà)
+*.DBK
+*.PWI
+*.dsn.tre
+
+# macOS system files
+.DS_Store
+Thumbs.db
